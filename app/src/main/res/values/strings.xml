@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MasterMedia</string>
+    <string name="action_movies">Movies</string>
 </resources>
